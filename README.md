@@ -92,19 +92,22 @@ Performed RFM analysis using Python and Pandas to identify customer behavior pat
 - Marketing targeting insights  
 - Business performance recommendations  
 
+# 🤝 Let's Connect & Build Smarter Solutions
+
+### Turning raw data into clear business insights through dashboards, analytics, and automation.
+
+💼 Open to:
+`Freelance Projects` • `Remote Opportunities` • `Business Collaborations`
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_Now-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharif-analyst)
+
+[![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdsharifulislam5177@gmail.com)
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801608397517)
+
 ---
 
-# 📸 Dashboard Preview
-
-### 📊 Sales Dashboard
-(Add your dashboard screenshot here)
-
-Let's Build Something Together 
-### *"I don't just analyze data â€” I decode the business story behind it."* **Open to:** Freelance Projects  |  Full-time Roles  |  Collaborations  |  Mentorship 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharif-analyst) [![Gmail](https://img.shields.io/badge/Email-mdsharifulislam5177%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdsharifulislam5177@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B880_1608_397517-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801608397517) 
-â¬ *If you find my work valuable, consider giving a star to my repositories!* â¬ 
---- 
-
-![Dashboard Preview](your-image-link)
+### ⭐ Support My Work
+If you find my projects useful, consider starring the repositories and connecting with me on LinkedIn.
 
 
