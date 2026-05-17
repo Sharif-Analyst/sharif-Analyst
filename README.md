@@ -1,24 +1,105 @@
- 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=750&lines=ðŸ“Š+Business+Intelligence+%7C+Data+Storytelling;âš¡+Excel+â€¢+SQL+â€¢+Power+BI+â€¢+Python+â€¢+n8n;ðŸš€+Transforming+Raw+Data+into+Profitable+Decisions;ðŸ”§+Building+Automated+Analytics+Pipelines)](https://git.io/typing-svg) 
+# Hi, I'm Md Shariful Islam 👋  
+### Excel Data Analyst • Business Intelligence • Automation
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sharif--Analyst-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharif-analyst) [![GitHub](https://img.shields.io/badge/GitHub-Sharif--Analyst-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sharif-Analyst) [![Gmail](https://img.shields.io/badge/Gmail-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdsharifulislam5177@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801608397517) [![Profile Views](https://komarev.com/ghpvc/?username=Sharif-Analyst&label=Profile+Views&color=58A6FF&style=for-the-badge)](https://github.com/Sharif-Analyst) 
---- ## ðŸ§  Who Am I? ```python analyst = { "name" : "Md Shariful Islam", "role" : "Data Analyst & Business Intelligence Specialist", "location" : "Bangladesh ðŸ‡§ðŸ‡©", "focus" : ["Business Intelligence", "Process Automation", "Data Storytelling"], "tools" : ["Excel", "SQL", "Power BI", "Python", "n8n", "Google Sheets"], "mindset" : "Data is just numbers â€” until it solves a real problem.", "currently" : "Building automated analytics pipelines ðŸ”§", "goal" : "Turn every dataset into a profitable business decision ðŸ’¡", "open_to" : ["Freelance Projects", "Full-time Roles", "Collaborations"] } ``` > ðŸš€ *I specialize in transforming raw, complex data into actionable insights that drive smarter business decisions. With expertise in Excel, SQL, Power BI, and Python, I build automated workflows, interactive dashboards, and data-driven solutions focused on efficiency, performance, and measurable growth.* --- ## ðŸ’¼ Business Impact I Create 
-### âš¡ Operational Efficiency Automated data pipelines & workflows to cut **manual tracking time by 70%+**, freeing teams for high-value work. ### ðŸ“ˆ Revenue Growth Identified high-value segments through deep KPI analysis â€” helping businesses **focus where profit lives**. 	### ðŸ”„ End-to-End Automation Built full automation systems using **n8n + SQL + Google Sheets**, eliminating repetitive tasks & human error. ### ðŸ‘¥ Retention & Workforce Strategy Analyzed behavioral patterns to help organizations **reduce churn and optimize workforce efficiency**. 
---- ## ðŸ› ï¸ Tech Stack & Expertise 
-### ðŸ“Š Data Analysis & Visualization ![Excel](https://img.shields.io/badge/Microsoft_Excel-Expert-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Google Sheets](https://img.shields.io/badge/Google_Sheets-Advanced-34A853?style=for-the-badge&logo=google-sheets&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-Intermediate-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-Intermediate-E97627?style=for-the-badge&logo=tableau&logoColor=white) ### ðŸ—„ï¸ Data & Databases ![SQL](https://img.shields.io/badge/SQL-Intermediate-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Learning-336791?style=for-the-badge&logo=postgresql&logoColor=white) ### ðŸ Programming & Automation ![Python](https://img.shields.io/badge/Python-Intermediate-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-Intermediate-150458?style=for-the-badge&logo=pandas&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-Workflow_Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white) 
---- ## ðŸ“ Featured Projects 
-### ðŸ“Š Sales Performance Dashboard **Stack:** `Excel` `Power BI` `DAX` > A retail company had no visibility into which products, regions, or reps were driving revenue. **What I did:** - ðŸ”¹ Built dynamic Excel dashboard with pivot tables & slicers - ðŸ”¹ Applied **Pareto Analysis** â€” top 20% SKUs = 80% revenue - ðŸ”¹ Migrated to Power BI for real-time reporting **ðŸ’¡ Result:** Management cut losing product lines â†’ **15% cost reduction** 	### ðŸ‘¥ HR Attrition & Workforce Analytics **Stack:** `Excel` `SQL` `KPI Dashboard` > An organization was losing employees without understanding *why*. **What I did:** - ðŸ”¹ Analyzed 3+ years of HR data by dept, tenure & salary - ðŸ”¹ Built a **churn prediction scoring model** - ðŸ”¹ Delivered monthly workforce health reports **ðŸ’¡ Result:** HR prioritized at-risk employees â†’ **20% turnover reduction** 
-### âš¡ Automated Reporting Pipeline **Stack:** `n8n` `Google Sheets` `API Integration` > A business spent 10+ hours/week manually copying data into reports. **What I did:** - ðŸ”¹ Built n8n workflow to auto-pull data from APIs - ðŸ”¹ Set up daily/weekly scheduled report generation - ðŸ”¹ Added **KPI threshold email alerts** **ðŸ’¡ Result:** Reporting time: **10 hours â†’ 20 minutes/week** 	### ðŸ›’ E-Commerce Customer Segmentation **Stack:** `Python` `Pandas` `Excel` `RFM Analysis` > An e-commerce brand was sending the same promotions to all customers â€” wasting budget. **What I did:** - ðŸ”¹ Performed **RFM Analysis** on 5,000+ customers - ðŸ”¹ Segmented into 5 behavioral groups - ðŸ”¹ Recommended targeted marketing per segment **ðŸ’¡ Result:** Client saw **25% increase in email campaign ROI** 
---- ## ðŸ“Š GitHub Analytics 
-    
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sharif-Analyst&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=58A6FF)](https://git.io/streak-stats) 
---- ## ðŸ† GitHub Achievements 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sharif-Analyst&theme=algolia&no-frame=true&no-bg=true&margin-w=6&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy) 
---- ## ðŸ“ˆ Contribution Activity 
-[![Shariful's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sharif-Analyst&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&area_color=58A6FF&hide_border=true&radius=6)](https://github.com/ashutosh00710/github-readme-activity-graph) 
---- ## ðŸ¤ Let's Build Something Together 
-### *"I don't just analyze data â€” I decode the business story behind it."* **Open to:** Freelance Projects  |  Full-time Roles  |  Collaborations  |  Mentorship 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharif-analyst) [![Gmail](https://img.shields.io/badge/Email-mdsharifulislam5177%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdsharifulislam5177@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B880_1608_397517-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801608397517) 
-â¬ *If you find my work valuable, consider giving a star to my repositories!* â¬ 
---- 
- 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Excel+Data+Analyst+%7C+Business+Intelligence;Power+BI+%E2%80%A2+Excel+%E2%80%A2+SQL+%E2%80%A2+Python;Building+Data-Driven+Business+Solutions;Automating+Reports+%26+Analytics+Workflows)](https://git.io/typing-svg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sharif--Analyst-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharif-analyst)
+[![GitHub](https://img.shields.io/badge/GitHub-Sharif--Analyst-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sharif-Analyst)
+[![Gmail](https://img.shields.io/badge/Gmail-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdsharifulislam5177@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=Sharif-Analyst&label=Profile+Views&color=58A6FF&style=for-the-badge)](https://github.com/Sharif-Analyst)
+
+---
+
+# 🚀 About Me
+
+I help businesses transform raw data into clear, actionable insights using Excel, SQL, Power BI, and automation tools.
+
+🔹 Interactive Dashboards & KPI Reporting  
+🔹 Data Cleaning & Analysis  
+🔹 Business Intelligence Solutions  
+🔹 Automated Reporting Workflows  
+🔹 Process Optimization & Insights  
+
+### 💡 Professional Summary
+Data Analyst focused on Excel dashboards, business intelligence, KPI reporting, and workflow automation. Passionate about transforming raw data into clear, data-driven business insights.
+
+---
+
+# 🛠 Tech Stack
+
+## 📊 Data Analysis & Visualization
+
+![Excel](https://img.shields.io/badge/Microsoft_Excel-Expert-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-Advanced-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-Intermediate-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-Intermediate-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+## 🗄 Databases
+
+![SQL](https://img.shields.io/badge/SQL-Intermediate-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Learning-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+## 🐍 Automation & Programming
+
+![Python](https://img.shields.io/badge/Python-Intermediate-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Intermediate-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-Workflow_Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
+---
+
+# 📁 Featured Projects
+
+## 📊 Sales Performance Dashboard
+Built an interactive Excel & Power BI dashboard to track revenue, KPIs, and product performance using dynamic filters and visual analytics.
+
+### 🔹 Key Features
+- Dynamic KPI dashboards  
+- Pivot tables & slicers  
+- Revenue trend analysis  
+- Regional sales insights  
+- Product performance tracking  
+
+---
+
+## 👥 HR Attrition Analysis
+Analyzed workforce trends and employee attrition patterns using Excel and SQL to support HR decision-making.
+
+### 🔹 Key Features
+- Employee turnover analysis  
+- Department-wise attrition insights  
+- Salary & tenure analysis  
+- Workforce KPI reporting  
+
+---
+
+## ⚡ Automated Reporting Workflow
+Created automated reporting pipelines using n8n, APIs, and Google Sheets to reduce manual reporting effort.
+
+### 🔹 Key Features
+- API data automation  
+- Scheduled report generation  
+- KPI alert systems  
+- Google Sheets integration  
+
+---
+
+## 🛒 Customer Segmentation Analysis
+Performed RFM analysis using Python and Pandas to identify customer behavior patterns and improve targeting strategies.
+
+### 🔹 Key Features
+- Customer behavior analysis  
+- RFM segmentation  
+- Marketing targeting insights  
+- Business performance recommendations  
+
+---
+
+# 📸 Dashboard Preview
+
+### 📊 Sales Dashboard
+(Add your dashboard screenshot here)
+
+```md
+![Dashboard Preview](your-image-link)
+
+
