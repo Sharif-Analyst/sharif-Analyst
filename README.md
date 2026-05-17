@@ -13,6 +13,6 @@
 --- ## ðŸ“ˆ Contribution Graph 
 [![Shariful's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
 --- ## ðŸ¤ Let's Work Together 
-> *"I don't just analyze data â€” I solve the business problem behind it."* **Open to:** Freelance Projects â€¢ Full-time Roles â€¢ Collaboration â€¢ Mentorship [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL) [![Portfolio](https://img.shields.io/badge/Portfolio-See%20My%20Work-FF6B6B?style=for-the-badge&logo=google-chrome)](YOUR_PORTFOLIO_LINK) [![Email](https://img.shields.io/badge/Email-Get%20In%20Touch-D14836?style=for-the-badge&logo=gmail)](mailto: mdsharifulislam5177@gmail.com) 
+> *"I don't just analyze data â€” I solve the business problem behind it."* **Open to:** Freelance Projects â€¢ Full-time Roles â€¢ Collaboration â€¢ Mentorship [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/sharif-analyst)) [![Portfolio](https://img.shields.io/badge/Portfolio-See%20My%20Work-FF6B6B?style=for-the-badge&logo=google-chrome)](YOUR_PORTFOLIO_LINK) [![Email](https://img.shields.io/badge/Email-Get%20In%20Touch-D14836?style=for-the-badge&logo=gmail)](mailto: mdsharifulislam5177@gmail.com) 
 --- 
  
