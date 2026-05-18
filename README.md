@@ -28,7 +28,7 @@ Currently serving as a **Junior Officer** at **Echotex Limited**, I build soluti
 - ⚙️ **Automated Reporting & Workflow Optimization**
 - 🎯 **Data-Driven Decision Support**
 
-## 🚀 Featured Projects
+## Featured Projects
 
 [![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](YOUR_EXCEL_PROJECT_LINK)
 [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)](YOUR_POWER_BI_PROJECT_LINK)
