@@ -29,13 +29,25 @@ Currently serving as a **Junior Officer** at **Echotex Limited**, I build soluti
 - 🎯 **Data-Driven Decision Support**
 
 ---
-## Featured Projects
+<br />
+<h2 align="center">🚀 Featured Projects</h2>
 
-[![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](YOUR_EXCEL_PROJECT_LINK)
-[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)](YOUR_POWER_BI_PROJECT_LINK)
+<div align="center">
+  
+  <a href="YOUR_EXCEL_PROJECT_LINK" target="_blank">
+    <img src="https://img.shields.io/badge/Excel%20Data%20Analysis-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=1F1F1F&shadow=true" 
+         alt="Excel Project" width="300px" style="border-radius: 10px; margin-right: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); transition: 0.3s;"/>
+  </a>
 
+  <a href="YOUR_POWER_BI_PROJECT_LINK" target="_blank">
+    <img src="https://img.shields.io/badge/Power%20BI%20Dashboard-F2C811?style=for-the-badge&logo=power-bi&logoColor=black&labelColor=1F1F1F&shadow=true" 
+         alt="Power BI Project" width="300px" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); transition: 0.3s;"/>
+  </a>
+
+</div>
+
+<br />
 ---
-
 ## 📈 My GitHub Analytics (Live Stats)
 
 <p align="center">
