@@ -27,89 +27,54 @@ Data Analyst specializing in dashboard development, business intelligence, KPI t
 
 ---
 
-# 🛠 Tech Stack
+# 🛠️ Tech Stack  
 
-## 📊 Data Analysis & Visualization
+<div align="center">
 
-![Excel](https://img.shields.io/badge/Microsoft_Excel-Expert-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-Advanced-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-Intermediate-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-Intermediate-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+### 📊 Data Analytics & Visualization  
+Excel • Google Sheets • Power BI • Tableau  
 
-## 🗄 Databases
+### 🗄️ Databases & Querying  
+SQL • PostgreSQL  
 
-![SQL](https://img.shields.io/badge/SQL-Intermediate-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Learning-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+### ⚡ Automation & Programming  
+Python • Pandas • n8n  
 
-## 🐍 Automation & Programming
-
-![Python](https://img.shields.io/badge/Python-Intermediate-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-Intermediate-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-Workflow_Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+</div>
 
 ---
 
-# 📁 Featured Projects
+# 🚀 Featured Projects  
 
-## 📊 Sales Performance Dashboard
-Built an interactive Excel & Power BI dashboard to track revenue, KPIs, and product performance using dynamic filters and visual analytics.
+📈 Sales Performance Dashboard — KPI Tracking & Revenue Analytics  
 
-### 🔹 Key Features
-- Dynamic KPI dashboards  
-- Pivot tables & slicers  
-- Revenue trend analysis  
-- Regional sales insights  
-- Product performance tracking  
+👥 HR Attrition Analysis — Workforce Insights & HR Analytics  
+
+⚡ Automated Reporting Workflow — API-Based Report Automation  
+
+🛒 Customer Segmentation Analysis — RFM Analytics & Customer Insights  
 
 ---
 
-## 👥 HR Attrition Analysis
-Analyzed workforce trends and employee attrition patterns using Excel and SQL to support HR decision-making.
+# 🤝 Let’s Connect  
 
-### 🔹 Key Features
-- Employee turnover analysis  
-- Department-wise attrition insights  
-- Salary & tenure analysis  
-- Workforce KPI reporting  
+💼 Open To  
+Freelance Projects • Remote Opportunities • Business Collaborations  
 
----
+<div align="center">
 
-## ⚡ Automated Reporting Workflow
-Created automated reporting pipelines using n8n, APIs, and Google Sheets to reduce manual reporting effort.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 
-### 🔹 Key Features
-- API data automation  
-- Scheduled report generation  
-- KPI alert systems  
-- Google Sheets integration  
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](#)
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](#)
+
+</div>
 
 ---
 
-## 🛒 Customer Segmentation Analysis
-Performed RFM analysis using Python and Pandas to identify customer behavior patterns and improve targeting strategies.
+## ⭐ Support My Work  
 
-### 🔹 Key Features
-- Customer behavior analysis  
-- RFM segmentation  
-- Marketing targeting insights  
-- Business performance recommendations  
-
-# 🤝 Let's Connect & Build Smarter Solutions
-
-### Turning raw data into clear business insights through dashboards, analytics, and automation.
-
-💼 Open to:
-`Freelance Projects` • `Remote Opportunities` • `Business Collaborations`
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_Now-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharif-analyst)
-
-[![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdsharifulislam5177@gmail.com)
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801608397517)
-
----
-
-### ⭐ Support My Work
-If you find my projects useful, consider starring the repositories and connecting with me on LinkedIn.
+If you find my projects valuable, consider starring the repositories and connecting with me on LinkedIn to stay updated with my latest work in data analytics, dashboards, and automation.
 
 
