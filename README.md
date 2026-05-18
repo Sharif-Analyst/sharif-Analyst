@@ -10,7 +10,7 @@
 
 ---
 
-##About Me
+## **About Me**  
 
 I turn raw, messy data into clear business insights, interactive dashboards, and automated reporting systems that help businesses make smarter and faster decisions.
 
@@ -22,7 +22,7 @@ With expertise in Excel, SQL, Power BI, and data automation, I build solutions t
 🔹 Automated Reporting & Workflow Optimization
 🔹 Data-Driven Decision Support
 
-**Professional Summary**
+## **Professional Summary**
 Data Analyst specializing in dashboard development, business intelligence, KPI tracking, and workflow automation. Passionate about transforming complex data into strategic insights, improving operational efficiency, and creating impactful data solutions that drive business performance.
 
 ---
