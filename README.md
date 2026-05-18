@@ -10,18 +10,20 @@
 
 ---
 
-# 🚀 About Me
+##About Me
 
-I help businesses transform raw data into clear, actionable insights using Excel, SQL, Power BI, and automation tools.
+I turn raw, messy data into clear business insights, interactive dashboards, and automated reporting systems that help businesses make smarter and faster decisions.
 
-🔹 Interactive Dashboards & KPI Reporting  
-🔹 Data Cleaning & Analysis  
-🔹 Business Intelligence Solutions  
-🔹 Automated Reporting Workflows  
-🔹 Process Optimization & Insights  
+With expertise in Excel, SQL, Power BI, and data automation, I build solutions that simplify complex data, improve efficiency, and support business growth.
 
-### 💡 Professional Summary
-Data Analyst focused on Excel dashboards, business intelligence, KPI reporting, and workflow automation. Passionate about transforming raw data into clear, data-driven business insights.
+🔹 Interactive Dashboards & KPI Reporting
+🔹 Data Cleaning, Analysis & Visualization
+🔹 Business Intelligence Solutions
+🔹 Automated Reporting & Workflow Optimization
+🔹 Data-Driven Decision Support
+
+**Professional Summary**
+Data Analyst specializing in dashboard development, business intelligence, KPI tracking, and workflow automation. Passionate about transforming complex data into strategic insights, improving operational efficiency, and creating impactful data solutions that drive business performance.
 
 ---
 
