@@ -1,4 +1,4 @@
-# Hi, I'm Md Sharif Raza 👋  
+# Hi, I'm Md Shariful Islam 👋  
 ### Data Analyst | Turning Raw Data into Smart Insights, Interactive Dashboards & Automation
 
 <p align="center">
@@ -69,14 +69,6 @@ Currently serving as a **Junior Officer** at **Echotex Limited**, I build soluti
 
 ---
 
-##  Featured Projects  
-
-- 📈 **Sales Performance Dashboard** — KPI Tracking & Revenue Analytics  
-- 👥 **HR Attrition Analysis** — Workforce Insights & HR Analytics  
-- ⚡ **Automated Reporting Workflow** — API-Based Report Automation  
-- 🛒 **Customer Segmentation Analysis** — RFM Analytics & Customer Insights  
-
----
 
 ##  Let’s Connect  
 
