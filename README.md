@@ -1,4 +1,4 @@
-# Hi, I'm Md Shariful Islam 👋  
+# Hi, I'm Md Sharif👋  
 ### Data Analyst | Turning Raw Data into Smart Insights, Interactive Dashboards & Automation
 
 <p align="center">
