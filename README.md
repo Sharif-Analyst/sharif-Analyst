@@ -1,5 +1,5 @@
 # Hi, I'm Md Shariful Islam 👋  
-### Excel Data Analyst • Business Intelligence • Automation
+### Data Analyst | Turning Raw Data into Smart Insights, Interactive Dashboards & Automation
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Excel+Data+Analyst+%7C+Business+Intelligence;Power+BI+%E2%80%A2+Excel+%E2%80%A2+SQL+%E2%80%A2+Python;Building+Data-Driven+Business+Solutions;Automating+Reports+%26+Analytics+Workflows)](https://git.io/typing-svg)
 
