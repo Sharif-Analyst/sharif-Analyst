@@ -27,24 +27,24 @@ Data Analyst specializing in dashboard development, business intelligence, KPI t
 
 ---
 
-# 🛠️ Tech Stack  
+# Tech Stack  
 
 <div align="center">
 
 ### 📊 Data Analytics & Visualization  
-Excel • Google Sheets • Power BI • Tableau  
+Excel • Google Sheets • Power BI   
 
 ### 🗄️ Databases & Querying  
 SQL • PostgreSQL  
 
-### ⚡ Automation & Programming  
+### Automation & Programming  
 Python • Pandas • n8n  
 
 </div>
 
 ---
 
-# 🚀 Featured Projects  
+# Featured Projects  
 
 📈 Sales Performance Dashboard — KPI Tracking & Revenue Analytics  
 
@@ -56,9 +56,9 @@ Python • Pandas • n8n
 
 ---
 
-# 🤝 Let’s Connect  
+# Let’s Connect  
 
-💼 Open To  
+Open To  
 Freelance Projects • Remote Opportunities • Business Collaborations  
 
 <div align="center">
@@ -73,7 +73,7 @@ Freelance Projects • Remote Opportunities • Business Collaborations
 
 ---
 
-## ⭐ Support My Work  
+##  Support My Work  
 
 If you find my projects valuable, consider starring the repositories and connecting with me on LinkedIn to stay updated with my latest work in data analytics, dashboards, and automation.
 
